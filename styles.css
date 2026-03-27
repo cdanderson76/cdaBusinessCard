@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
+body {
+    margin: 20px;
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+    font-family: Cabin, sans-serif;
+    perspective: 500px;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 50%;
+    border: 2px solid #03045e;
+    transition: transform 3s ease;
+}
+
+.avatar:hover {
+    transform: rotateY(3turn);
+    cursor: pointer;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #90e0ef;
+    color: #2b2839;
+    border-bottom: 6px solid #0077b6;
+    -webkit-box-shadow: 8px 11px 17px 0px #D6D6D6; 
+    box-shadow: 8px 11px 17px 0px #D6D6D6;
+        
+    /*
+    Challenge:
+    Find a color palette you like on Coolors.co
+    and use it in your business card.
+     */
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+.occupation {
+    font-style: italic;
+    letter-spacing: 1.5px;
+    color: #03045e;
+}
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
