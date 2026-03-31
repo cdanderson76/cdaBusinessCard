@@ -17,4 +17,25 @@
   🔗 Shareable digital profile via URL
   🧾 Clean UI for quick information access
   🌐 Deployed globally using Netlify
-</p>
+
+  🛠 Tech 
+  Frontend: HTML, CSS
+  Deployment: Netlify
+  
+  
+  🎯 Problem It Solves
+  
+  Traditional business cards are:
+  
+  Easy to lose
+  Hard to update
+  Not interactive
+  
+  This app provides a centralized, always-updated digital identity that can be shared instantly.
+  
+  🧠 What I Learned
+  Building responsive, user-friendly UI
+  Structuring clean, maintainable frontend code
+  Deploying and managing web apps using Netlify’s CI/CD workflow
+  Designing for real-world usability (networking scenarios)
+  </p>
