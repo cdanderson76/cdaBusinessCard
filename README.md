@@ -13,28 +13,28 @@
   Users can instantly share their professional identity, including contact information and social links, through a single link—making networking more efficient and environmentally friendly.
   
    <h2>✨ Features</h2>
-  📱 Mobile-friendly, responsive design
-  🔗 Shareable digital profile via URL
-  🧾 Clean UI for quick information access
-  🌐 Deployed globally using Netlify
+   <p>📱 Mobile-friendly, responsive design</p>
+   <p>🔗 Shareable digital profile via URL</p>
+   <p>🧾 Clean UI for quick information access</p>
+   <p>🌐 Deployed globally using Netlify</p>
 
   <h2>🛠 Tech</h2>
-  Frontend: HTML, CSS
-  Deployment: Netlify
+  <p>Frontend: HTML, CSS
+  <p>Deployment: Netlify
   
   
-  <h2>🎯 Problem It Solves<h2>
-  Traditional business cards are:
+  <h2>🎯 Problem It Solves</h2>h2>
+  Traditional business cards are: 
   
-  Easy to lose
-  Hard to update
-  Not interactive
+  <p>Easy to lose</p>
+  <p>Hard to update</p>
+  <p>Not interactive</p>
   
   This app provides a centralized, always-updated digital identity that can be shared instantly.
   
   <h2>🧠 What I Learned</h2>
-  Building responsive, user-friendly UI
-  Structuring clean, maintainable frontend code
-  Deploying and managing web apps using Netlify’s CI/CD workflow
-  Designing for real-world usability (networking scenarios)
+  <p>Building responsive, user-friendly UI</p>
+  <p>Structuring clean, maintainable frontend code</p>
+  <p>Deploying and managing web apps using Netlify’s CI/CD workflow</p>
+  <p>Designing for real-world usability (networking scenarios)</p>
  </p>
