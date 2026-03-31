@@ -24,15 +24,12 @@
   <br>
   <br>
 
-
    <h2>🛠 Tech</h2>
    <p>Frontend: HTML, CSS
    <p>Deployment: Netlify
   <br>
   <br>
   <br>
-  
-  
   
    <h2>🎯 Problem It Solves</h2>h2>
    Traditional business cards are: 
