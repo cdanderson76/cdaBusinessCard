@@ -11,12 +11,14 @@
   CDA Digital Business Card is a lightweight web app designed to replace traditional paper business cards with a clean, interactive digital experience.
   
   Users can instantly share their professional identity, including contact information and social links, through a single link—making networking more efficient and environmentally friendly.
+
   
    <h2>✨ Features</h2>
    <p>📱 Mobile-friendly, responsive design</p>
    <p>🔗 Shareable digital profile via URL</p>
    <p>🧾 Clean UI for quick information access</p>
    <p>🌐 Deployed globally using Netlify</p>
+
 
   <h2>🛠 Tech</h2>
   <p>Frontend: HTML, CSS
@@ -25,12 +27,10 @@
   
   <h2>🎯 Problem It Solves</h2>h2>
   Traditional business cards are: 
-  
   <p>Easy to lose</p>
   <p>Hard to update</p>
   <p>Not interactive</p>
-  
-  This app provides a centralized, always-updated digital identity that can be shared instantly.
+  <p>This app provides a centralized, always-updated digital identity that can be shared instantly.</p>
   
   <h2>🧠 What I Learned</h2>
   <p>Building responsive, user-friendly UI</p>
