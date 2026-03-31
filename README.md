@@ -2,7 +2,9 @@
 <h2>
   Based on a guided project from Scrimba, which I extended by improving the UI, and deployed it as a live application.
 </h2>
+
 ![Image](https://github.com/user-attachments/assets/1e69dd9b-d131-4dc5-889b-76c3101e83d4)
+
 <p>
   🧩 Overview
 
