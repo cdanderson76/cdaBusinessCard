@@ -20,23 +20,36 @@
    <p>🔗 Shareable digital profile via URL</p>
    <p>🧾 Clean UI for quick information access</p>
    <p>🌐 Deployed globally using Netlify</p>
+  <br>
+  <br>
+  <br>
 
 
-  <h2>🛠 Tech</h2>
-  <p>Frontend: HTML, CSS
-  <p>Deployment: Netlify
+   <h2>🛠 Tech</h2>
+   <p>Frontend: HTML, CSS
+   <p>Deployment: Netlify
+  <br>
+  <br>
+  <br>
   
   
-  <h2>🎯 Problem It Solves</h2>h2>
-  Traditional business cards are: 
-  <p>Easy to lose</p>
-  <p>Hard to update</p>
-  <p>Not interactive</p>
-  <p>This app provides a centralized, always-updated digital identity that can be shared instantly.</p>
   
-  <h2>🧠 What I Learned</h2>
-  <p>Building responsive, user-friendly UI</p>
-  <p>Structuring clean, maintainable frontend code</p>
-  <p>Deploying and managing web apps using Netlify’s CI/CD workflow</p>
-  <p>Designing for real-world usability (networking scenarios)</p>
- </p>
+   <h2>🎯 Problem It Solves</h2>h2>
+   Traditional business cards are: 
+   <p>Easy to lose</p>
+   <p>Hard to update</p>
+   <p>Not interactive</p>
+   <p>This app provides a centralized, always-updated digital identity that can be shared instantly.</p>
+  <br>
+  <br>
+  <br>
+  
+   <h2>🧠 What I Learned</h2>
+   <p>Building responsive, user-friendly UI</p>
+   <p>Structuring clean, maintainable frontend code</p>
+   <p>Deploying and managing web apps using Netlify’s CI/CD workflow</p>
+  <br>
+  <br>
+  <br>
+   <p>Designing for real-world usability (networking scenarios)</p>
+  </p>
