@@ -45,8 +45,5 @@
    <p>Building responsive, user-friendly UI</p>
    <p>Structuring clean, maintainable frontend code</p>
    <p>Deploying and managing web apps using Netlify’s CI/CD workflow</p>
-  <br>
-  <br>
-  <br>
-   <p>Designing for real-world usability (networking scenarios)</p>
+   <p>Designing for real-world usability (networking scenarios)</p> 
   </p>
