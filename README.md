@@ -12,6 +12,8 @@
   
   Users can instantly share their professional identity, including contact information and social links, through a single link—making networking more efficient and environmentally friendly.
   <br>
+  <br>
+  <br>
   
    <h2>✨ Features</h2>
    <p>📱 Mobile-friendly, responsive design</p>
