@@ -13,7 +13,6 @@
   Users can instantly share their professional identity, including contact information and social links, through a single link—making networking more efficient and environmentally friendly.
   <br>
   <br>
-  <br>
   
    <h2>✨ Features</h2>
    <p>📱 Mobile-friendly, responsive design</p>
@@ -22,12 +21,10 @@
    <p>🌐 Deployed globally using Netlify</p>
   <br>
   <br>
-  <br>
 
    <h2>🛠 Tech</h2>
    <p>Frontend: HTML, CSS
    <p>Deployment: Netlify
-  <br>
   <br>
   <br>
   
@@ -37,7 +34,6 @@
    <p>Hard to update</p>
    <p>Not interactive</p>
    <p>This app provides a centralized, always-updated digital identity that can be shared instantly.</p>
-  <br>
   <br>
   <br>
   
